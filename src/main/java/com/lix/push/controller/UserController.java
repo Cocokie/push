@@ -22,7 +22,7 @@ public class UserController {
 
     @GetMapping("get")
     public String userGet() {
-        return "success";
+        return "success1";
     }
 
 
